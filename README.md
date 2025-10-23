@@ -1,1 +1,1 @@
-Simple Java Quiz : A small console-based quiz application built in Java to practice OOP principles and user input.
+Simple Java Quiz : A small console-based quiz application built in Java to practice OOP principles and user input. Download the files under one folder and use "javac *.java" and "java *.java" to run the quiz in console.
